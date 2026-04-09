@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<!--
-**Oatan150522/Oatan150522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="rigth">
+  Hola, Soy Jhonatan David leherici Carrascal
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oatan150522&theme=github_dark)
+  
+ </div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+██████╗ ███████╗██╗   ██╗     ██████╗  █████╗ ████████╗ █████╗ ███╗   ██╗
+██╔══██╗██╔════╝██║   ██║    ██╔═══██╗██╔══██╗╚══██╔══╝██╔══██╗████╗  ██║
+██║  ██║█████╗  ██║   ██║    ██║   ██║███████║   ██║   ███████║██╔██╗ ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║   ██║██╔══██║   ██║   ██╔══██║██║╚██╗██║
+██████╔╝███████╗ ╚████╔╝     ╚██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║
+╚═════╝ ╚══════╝  ╚═══╝       ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+
+User      : DEV OATAN
+Role      : Software Developer
+Location  : Colombia 🇨🇴
+
+Languages : JavaScript, Java, Python
+Frontend  : HTML, CSS
+Backend   : Node.js
+
+Database  : MySQL
+
+Tools     : Git, VS Code, Linux
+OS        : Windows + Arch Linux
+
+Current   : Building Flas Control 🚗
+Learning  : Backend & System Design ⚡
+
+Mindset   : "Code > Excuses"
+Status    : Always improving 🚀
